@@ -1,0 +1,6 @@
+Train Epoch 0: avg_discr_loss = 0.35681, avg_pred_loss = 0.696, avg_total_loss = 0.398
+Train Epoch 1: avg_discr_loss = 0.24798, avg_pred_loss = 0.692, avg_total_loss = 0.474
+Train Epoch 2: avg_discr_loss = 0.15027, avg_pred_loss = 0.686, avg_total_loss = 0.565
+Train Epoch 3: avg_discr_loss = 0.05967, avg_pred_loss = 0.662, avg_total_loss = 0.625
+Train Epoch 4: avg_discr_loss = 0.01563, avg_pred_loss = 0.564, avg_total_loss = 0.567
+Train Epoch 5: avg_discr_loss = -0.01655, avg_pred_loss = 0.449, avg_total_loss = 0.481
