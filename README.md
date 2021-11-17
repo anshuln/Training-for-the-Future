@@ -1,6 +1,11 @@
 # Training for the Future: A Simple Gradient Interpolation Loss to Generalize Along Time
 
-Code accompanying the NeurIPS 2021 article `Training for the Future: A Simple Gradient Interpolation Loss to Generalize Along Time`.
+Code accompanying the NeurIPS 2021 article 
+
+> **Training for the Future: A Simple Gradient Interpolation Loss to Generalize Along Time**
+>
+> Anshul Nasery*, Soumyadeep Thakur*, Vihari Piratla, Abir De, Sunita Sarawagi
+
 This repository contains the training and inference code, as well as codebases for different baselines.
 
 The code and instructions to run for all models can be found in `src/`. The processed datasets should be downloaded to `data/` from [this link](https://drive.google.com/drive/folders/11F7FJYPq0mlL11pSI_FaRKOjqCdmxEnl?usp=sharing)
@@ -37,4 +42,15 @@ The directory `src/` has four sub-folders, for our method and baselines
     * `dataloaders/` - Contains dataloaders for various datasets
     * `models/` - Contains model definitions
 
-
+## Citation
+If you find the paper or the code helpful in your research, consider citing us as
+```
+@inproceedings{
+nasery2021training,
+title={Training for the Future: A Simple Gradient Interpolation Loss to Generalize Along Time},
+author={Anshul Nasery and Soumyadeep Thakur and Vihari Piratla and Abir De and Sunita Sarawagi},
+booktitle={Thirty-Fifth Conference on Neural Information Processing Systems},
+year={2021},
+url={https://openreview.net/forum?id=U7SBcmRf65}
+}
+```
