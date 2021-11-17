@@ -2,7 +2,7 @@
 
 Code accompanying the NeurIPS 2021 article 
 
-> **Training for the Future: A Simple Gradient Interpolation Loss to Generalize Along Time**
+> [**Training for the Future: A Simple Gradient Interpolation Loss to Generalize Along Time**](https://openreview.net/forum?id=U7SBcmRf65)
 >
 > Anshul Nasery*, Soumyadeep Thakur*, Vihari Piratla, Abir De, Sunita Sarawagi
 
